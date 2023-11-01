@@ -6,8 +6,8 @@ spring:
       client:
         registration:
           google:
-            client-id: 998424060429-3uo96216oc7u46bk4bbnnp7c5q99e1g5.apps.googleusercontent.com
-            client-secret: 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
+            client-id: 
+            client-secret: 
 server:
   port: 8080
 
